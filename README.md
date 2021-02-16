@@ -1,4 +1,4 @@
-# Expense Tracker Application
+# Memory Stamp
 
 ## It is a full stack application  built using nodejs, reactjs, expressjs and mongodb
 
